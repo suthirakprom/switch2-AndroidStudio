@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Switch to Enable a Button Clicked</string>
+    <string name="show_toast">Show Toast</string>
+</resources>
